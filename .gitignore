@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+
+# Local Claude Code settings — may hold API keys, never commit
+.claude/settings.local.json
+.env
+.env.local
